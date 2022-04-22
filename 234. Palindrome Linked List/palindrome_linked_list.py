@@ -29,5 +29,4 @@ class Solution:
             head = next_element
 
         return prev
-                
-                
+ 

@@ -4,5 +4,3 @@ class Solution:
         res_dict = dict(sorted(info.items(), key=lambda item: item[1]))
         
         return list(res_dict.keys())[:k]
-        
-        

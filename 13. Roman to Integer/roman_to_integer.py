@@ -18,4 +18,3 @@ class Solution:
                 res.append(info[s[i]])
             
         return sum(res)
-    

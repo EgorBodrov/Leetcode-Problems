@@ -10,5 +10,3 @@ class Solution:
             answer[i - 1] = tmp if tmp != '' else answer[i - 1]
         
         return answer
-    
-    
